@@ -1,2 +1,2 @@
 # AIML1_JS
-Java script
+Java scriptls
